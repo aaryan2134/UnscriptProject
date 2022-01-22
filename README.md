@@ -17,8 +17,8 @@ insights to create an actionable plan. The case's data is stored in a CSV file w
 6362620 rows and 10 columns.
 
 ## To do
-- [ ] Data cleaning
-- [ ] Data exploration
+- [.] Data cleaning
+- [.] Data exploration
 - [ ] Input: Transaction ID
 - [ ] Output: Fraudulent or not
 - [ ] All information should be visible
