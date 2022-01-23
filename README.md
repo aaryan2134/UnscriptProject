@@ -23,7 +23,7 @@ insights to create an actionable plan. The case's data is stored in a CSV file w
 - [x] Output: Fraudulent or not
 - [x] All information should be visible
 - [x] UI
-- [ ] End to End Application
+- [x] End to End Application
 - [x] Some innovative solution
 - [ ] Presentation
 
