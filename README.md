@@ -17,13 +17,13 @@ insights to create an actionable plan. The case's data is stored in a CSV file w
 6362620 rows and 10 columns.
 
 ## To do
-- [ ] Data cleaning
-- [ ] Data exploration
-- [ ] Input: Transaction ID
-- [ ] Output: Fraudulent or not
-- [ ] All information should be visible
-- [ ] UI
-- [ ] End to End Application
-- [ ] Some innovative solution
+- [x] Data cleaning
+- [x] Data exploration
+- [x] Input: Transaction ID
+- [x] Output: Fraudulent or not
+- [x] All information should be visible
+- [x] UI
+- [x] End to End Application
+- [x] Some innovative solution
 - [ ] Presentation
 
